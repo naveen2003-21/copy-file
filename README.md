@@ -18,9 +18,10 @@ When done print "File copied successfully".
 ### Step 6: 
 End of the program.
 ## PROGRAM:
-'''Program For Copying The Contents:
+```
+Program For Copying The Contents:
 Developed by: A NAVEEN KUMAR
-RegisterNumber: 21004621 '''
+RegisterNumber: 21004621 
 
 
 print("Enter the Name of Source File: ")
@@ -37,6 +38,7 @@ for s in texts:
 fileHandle.close()
 
 print("\nFile Copied Successfully!")
+```
 
 ### OUTPUT:
 ![github logo](copy.png)
